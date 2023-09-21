@@ -1,3 +1,4 @@
+package edu.ronaldo.segundasemana;
 public class TiposVariaveis {
     public static <DE> void main(String[] args) {
         double salarioMinimo = 2500;
